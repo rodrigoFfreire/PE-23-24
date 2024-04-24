@@ -12,6 +12,7 @@ data |>
     geom_point() +
     geom_text(aes(label = ifelse(Country %in% countries, Country, "")),
               hjust = 1,
-              vjust = -0.2) +
+              vjust = -0.2,
+              color = "black") +
     scale_x_log10() +
     labs(title = paste("HCI vs GDP in", paste(continents, collapse = " and ")))
