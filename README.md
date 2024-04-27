@@ -10,6 +10,6 @@
 | ex5 | :question: |
 | ex6 | :question: |
 | ex7 | :x: |
-| ex8 | - |
+| ex8 | :question: |
 | ex9 | - |
 | ex10 | - |
