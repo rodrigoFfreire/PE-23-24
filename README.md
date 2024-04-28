@@ -11,5 +11,5 @@
 | ex6 | :question: |
 | ex7 | :x: |
 | ex8 | :question: |
-| ex9 | :question: |
-| ex10 | - |
+| ex9 | :white_check_mark: |
+| ex10 | :x: |
