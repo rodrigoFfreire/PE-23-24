@@ -12,4 +12,4 @@
 | ex7 | :x: |
 | ex8 | :question: |
 | ex9 | :white_check_mark: |
-| ex10 | :x: |
+| ex10 | ✅ |
