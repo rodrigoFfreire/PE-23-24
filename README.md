@@ -7,8 +7,8 @@
 | ex2 | :white_check_mark: |
 | ex3 | :white_check_mark: |
 | ex4 | :white_check_mark: |
-| ex5 | :question: |
-| ex6 | :question: |
+| ex5 | :white_check_mark: |
+| ex6 | :white_check_mark: |
 | ex7 | :question: |
 | ex8 | :question: |
 | ex9 | :white_check_mark: |

@@ -22,4 +22,4 @@ for (i in 1:n_sims) {
 notoff_prob <- notoff / n_sims
 beeps_prob <- beeps / n_sims
 
-print(round(beeps_prob/notoff_prob,2))
+beeps_prob / notoff_prob
