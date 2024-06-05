@@ -18,7 +18,8 @@ filtered_data |>
   scale_y_continuous(limits = c(0, 100)) +
   scale_x_date(date_breaks = "5 months", date_labels = "%B %Y") +
   geom_line() +
+  geom_point() +
   theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
-  labs(title = paste("Monthly evolution of Renewable energies market share of Italy vs Latvia vs IEA Total"),
+  labs(title = paste("Monthly market share evolution of renewable energies\nItaly vs Latvia vs IEA Total"),
        x = paste("Date"),
        y = paste("Market Share Percentage (%)"))
