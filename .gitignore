@@ -1,3 +1,6 @@
 # Databases
 *.csv
 *.xlsx
+
+# Rstudio garbage
+.Rhistory
